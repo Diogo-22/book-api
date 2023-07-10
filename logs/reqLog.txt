@@ -162,3 +162,10 @@
 10-07-2023	12:14:01	fe5209be-552a-426e-a881-7e38b668d009	DELETE	undefined	/employees
 10-07-2023	12:38:55	8225218b-76b9-46b5-8db4-2cf02a7d8384	POST	undefined	/auth
 10-07-2023	12:39:12	6941ebc1-aeb4-4162-8252-406587191727	DELETE	undefined	/employees
+10-07-2023	15:33:47	752db0d6-9f6d-4f00-816d-8fd479531ebd	POST	undefined	/auth
+10-07-2023	15:35:59	3f8b02a9-b787-4e62-a97a-a5f0743105f1	POST	undefined	/auth
+10-07-2023	15:37:41	06d32959-b655-4444-afbf-e672caadde4a	POST	undefined	/auth
+10-07-2023	15:41:34	1c338dae-1e39-4784-8867-00240cecb312	GET	undefined	/groceries
+10-07-2023	15:42:17	b76d9ee6-c5f3-47da-8f99-07b40c9061ee	POST	undefined	/auth
+10-07-2023	15:42:30	4e633d1d-df67-41ca-8d31-d8a4ff8164bc	GET	undefined	/groceries
+10-07-2023	15:42:36	8658f193-29d0-4877-9a9a-02bbe5cfc5c4	POST	undefined	/groceries
