@@ -1,0 +1,4 @@
+05-07-2023	17:47:43	1750413f-fc48-4229-a2bb-7d5689795fbb	Error: Not allowed by CORS
+06-07-2023	21:34:00	18fd8658-c766-458f-884e-cf5ac09dce0e	ReferenceError: decode is not defined
+06-07-2023	21:34:13	3b1ae5f4-d641-4514-a397-c0e0011b30fa	ReferenceError: decode is not defined
+07-07-2023	10:45:58	9fa223b3-d296-4a64-820d-fa7dc230da6a	ReferenceError: whitelist is not defined
